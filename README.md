@@ -1,4 +1,4 @@
-# 201 Project
+# Project 201
 
 ## Overview
 This project predicts the probability of winning the next Valorant match and recommends the **top 3 agents per map** based on:
