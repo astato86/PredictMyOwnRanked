@@ -93,7 +93,8 @@ Map: Ascent
 ### Knowed future proyections
 1. UI
 2. Learning from the actual match
-3. Updating the file automatically
+3. Updating the csv file automatically
+4. GPU use
 ## Shotouts
 Special thanks to Revit and Magiñho for being test subjects.
 amasando habitual en el area
