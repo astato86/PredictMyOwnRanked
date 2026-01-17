@@ -12,7 +12,6 @@ This project predicts the probability of winning the next Valorant match **depen
 - Python 3.9+ (recommended).
 - Basic knowledge of using the terminal/command prompt.
 - Your dataset file
-- 
 ## Installing on Windows
 1. Install python from [the microsoft store](https://apps.microsoft.com/detail/9PNRBTZXMB4Z?hl=neutral&gl=CL&ocid=pdpshare)
 2. Open CMD and put:
