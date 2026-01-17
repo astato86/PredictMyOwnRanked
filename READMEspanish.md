@@ -5,7 +5,7 @@
 El proyecto predice la probabilidad de ganar el siguiente partido de Valorant **según el mapa** basado en:
 - **Patrones de tiempo** → Aprende de las rachas de victorias/derrotas según las tendencias de rendimiento
 - **Caracteristicas** → Evalua y predice según el mapa, agente, kills, muertes, asistencias y predice la probabilidad de ganar y el KDA esperado.
-- **Hybrid combination** →  Se promedian ambas probabilidades de los modelos para una recomendación más realista
+- **Combinación hibrida** →  Se promedian ambas probabilidades de los modelos para una recomendación más realista
 
 ## Funcionamiento
 
