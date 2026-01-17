@@ -30,7 +30,7 @@ cd %pasta%
 2. Abra o Prompt de Comando (CMD) e digite:
 ```bash
 pip install pandas numpy scikit-learn xgboost torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
-``` Nota: Se isso não funcionar, entre em um ambiente virtual:
+Nota: Se isso não funcionar, entre em um ambiente virtual:
 ```bash
 python -m venv .venv
 source .venv/bin/activate
@@ -77,7 +77,7 @@ python launch.py
 ```bash
 python launch.py
 ```
-Observação: Se isso não funcionar, entre no ambiente virtual:
+Nota: Se isso não funcionar, entre em um ambiente virtual:
 ```bash
 python -m venv .venv
 source .venv/bin/activate
