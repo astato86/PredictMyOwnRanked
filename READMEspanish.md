@@ -23,7 +23,7 @@ pip install pandas numpy scikit-learn xgboost torch torchvision torchaudio --ind
 ```bash
 cd %folder%
 ```
-## Installing on Linux/Mac
+## Instalando en Linux/Mac
 1. Descarga e instala python desde la [página de macos](https://www.python.org/downloads/macos/)
 2. Abre CMD y escribe:
 ```bash
@@ -85,7 +85,7 @@ Map: Ascent
   - Jett | Win Probability 0.72 | Expected KDA 2.10
   - Reyna | Win Probability 0.65 | Expected KDA 1.95
   - Killjoy | Win Probability 0.60 | Expected KDA 1.80
-## Considerations
+## Consideraciones
 1. El modelo predecirá los partidos de acuerdo a los partidos cargados desde el archivo .csv, se recomienda actualizar el archivo .csv con cada partido que juegues para obtener mejores resultados. Por ahora debes sobrescribir manualmente el archivo .csv tú mismo, debes escribir una nueva línea en el archivo .csv con el formato que verás.
 2. El modelo NO ES 100% perfecto, porque es una versión alfa, hablando de mi propia investigación supongo que tiene un 65%-80% de predicciones correctas.
 3. Si el modelo arroja todas derrotas, recomiendo probar un agente nuevo que no hayas jugado en ese mapa.
@@ -96,4 +96,4 @@ Map: Ascent
 4. Uso de la GPU
 ## Saludos
 Agradecimientos especiales a Revit y Magiñho por ser sujetos de prueba.
-
+kneading regularly in the area
